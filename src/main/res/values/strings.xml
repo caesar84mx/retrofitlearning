@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Retrofit Learning</string>
+    <string name="hello">Welcome to Heroes Hall</string>
+    <string name="avatarText">Avatar</string>
+    <string name="labelName">Name</string>
+    <string name="labelRealName">Real Name</string>
+    <string name="labelTeam">Team</string>
+    <string name="labelFirstAppeared">First Appeared In</string>
+    <string name="labelCreatedBy">Created By</string>
+    <string name="labelPublisher">Publisher</string>
+    <string name="labelBio">Biography</string>
+</resources>
