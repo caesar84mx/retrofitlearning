@@ -55,7 +55,7 @@ public class HeroesAdapter extends BaseAdapter implements AdapterView.OnItemClic
             view = inflater.inflate(R.layout.list_item_layout, parent, false);
         }
 
-        String displayText = String.format("%s aka %s", objects.get(position).getName(), objects.get(position).getRealname());
+        String displayText = String.format("%s (%s)", objects.get(position).getName(), objects.get(position).getRealname());
 
         ((TextView) view.findViewById(R.id.item_name_text)).setText(displayText);
 
